@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Studi Independen Bersertifikat - Web Development",
+    "image": "/sertif/msib.jpg",
+    "color": "#ffdb58"
+  },
+  {
+    "id": 2,
+    "title": "Data Driven - TSA x Kominfo x DQLAB x UMN",
+    "image": "/sertif/data tsa.png",
+    "color": "#ffa07a"
+  },
+  {
+    "id": 3,
+    "title": "Dicoding - Belajar dasar pemrograman web",
+    "image": "/sertif/dicoding web.png",
+    "color": "#b5d2ad"
+  },
+  {
+    "id": 4,
+    "title": "UBSI - IT BOOTCAMP",
+    "image": "/sertif/itbootcamp.jpg",
+    "color": "#9081b9"
+  },{
+    "id": 5,
+    "title": "LSP - Analis Program",
+    "image": "/sertif/lsp analisis.jpg",
+    "color": "#ffdb58"
+  },
+  {
+    "id": 6,
+    "title": "Pusdiklat - Magang",
+    "image": "/sertif/magang.jpg",
+    "color": "#ffa07a"
+  },
+  {
+    "id": 7,
+    "title": "Myskill - Project Management Planning",
+    "image": "/sertif/pm planning.png",
+    "color": "#b5d2ad"
+  },
+  {
+    "id": 8,
+    "title": "Myskill - Project Management Schedule & Prioritization Management",
+    "image": "/sertif/pm schedule.png",
+    "color": "#9081b9"
+  },
+  {
+    "id": 9,
+    "title": "TSA - Pandu Muda Indonesia",
+    "image": "/sertif/tsa pandu.jpg",
+    "color": "#ffdb58"
+  },
+  {
+    "id": 10,
+    "title": "Pengabdian Masyarakat",
+    "image": "/sertif/pengabdian.jpg",
+    "color": "#ffa07a"
+  }
+]

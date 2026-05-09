@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Coffee Rush - IT Bootcamp",
+    "image": "/porto/17.png",
+    "tech": ["HTML", "CSS", "JAVASCRIPT", "VERCEL"],
+    "description": "Developed a user-friendly e-commerce website for coffee and bakery products using HTML, CSS, and JavaScript.",
+    "link": "https://coffeerush.vercel.app/index.html",
+    "color": "#ffdb58"
+  },
+  {
+    "id": 2,
+    "title": "GROWOODS - INFINITE LEARNING",
+    "image": "/porto/18.png",
+    "tech": ["FIGMA"],
+    "description": "Designed UI/UX concepts and interactive prototypes to support digital environmental campaigns.",
+    "link": "#",
+    "color": "#ffa07a"
+  },
+  {
+    "id": 3,
+    "title": "VNUEWISE - INFINITE LEARNING",
+    "image": "/porto/19.png",
+    "tech": ["HTML", "CSS", "BOOTSTRAP", "JAVASCRIPT"],
+    "description": "Built a user-friendly website interface using HTML, CSS, Bootstrap, and JavaScript to improve accessibility and user experience.",
+    "link": "https://vnuewise.vercel.app/",
+    "color": "#b5d2ad"
+  },
+  {
+    "id": 4,
+    "title": "NGUBALAN DARING - INFINITE LEARNING",
+    "image": "/porto/20.png",
+    "tech": ["PROJECT MANAGER"],
+    "description": "Built a user-friendly website interface using HTML, CSS, Bootstrap, and JavaScript to improve accessibility and user experience.",
+    "link": "https://ngubalan.xyzuan.my.id/",
+    "color": "#9081b9"
+  },
+    {
+    "id": 5,
+    "title": "COMPANY PROFILE - PT KALIANDRA SETYATAMA",
+    "image": "/porto/21.png",
+    "tech": ["HTML", "CSS", "JAVASCRIPT", "VERCEL", "TAILWIND CSS"],
+    "description": "Translated company requirements into functional web pages to improve online presence and brand presentation.",
+    "link": "#",
+    "color": "#ffdb58"
+  },
+  {
+    "id": 6,
+    "title": "NAYH SKIN CARE - SKRIPSI",
+    "image": "/porto/22.png",
+    "tech": ["FIGMA", "LARAVEL", "MYSQL", "FLOWBITE", "JAVASCRIPT"],
+    "description": "Conducted research on clinic needs and operational challenges, then developed an integrated clinic information system with chatbot, online reservations, medical records, medication management, payment receipts, and daily payment history exportable to Google Sheets.",
+    "link": "#",
+    "color": "#ffa07a"
+  },
+  {
+    "id": 7,
+    "title": "ELECTRIC PAY - LSP",
+    "image": "/porto/23.png",
+    "tech": ["FIGMA", "LARAVEL", "MYSQL", "FLOWBITE", "JAVASCRIPT"],
+    "description": "Built an LSP web-based electricity payment system .",
+    "link": "#",
+    "color": "#b5d2ad"
+  },
+  {
+    "id": 8,
+    "title": "RADI FURNITURE",
+    "image": "/porto/24.png",
+    "tech": ["REACT", "VITE", "TAILWIND CSS"],
+    "description": "Built a user-friendly furniture website using React, Vite, and Tailwind CSS to improve accessibility and user experience.",
+    "link": "https://radi-furniture.netlify.app/",
+    "color": "#9081b9"
+  },
+  {
+    "id": 9,
+    "title": "MOVIE ID",
+    "image": "/porto/25.png",
+    "tech": ["REACT", "VITE", "JAVASCRIPT", "API"],
+    "description": "Developed a user-friendly movie website using React, Vite, JavaScript, and API.",
+    "link": "https://movieid.netlify.app/",
+    "color": "#ffdb58"
+  },
+   {
+    "id": 10,
+    "title": "ABSENSI QR CODE",
+    "image": "/porto/absen.png",
+    "tech": ["APPSHEET", "GOOGLE SHEETS"],
+    "description": "Attendance system using QR code and Google Sheets.",
+    "link": "#",
+    "color": "#ffa07a"
+  }
+]

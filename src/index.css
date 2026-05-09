@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-h1: "Space Grotesk", sans-serif;
+  --font-h2: "Space Grotesk", sans-serif;
+  --font-h3: "Space Grotesk", sans-serif;
+  --font-label: "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+  
+  --color-neo-yellow: #ffdb58;
+  --color-neo-salmon: #ffa07a;
+  --color-neo-green: #b5d2ad;
+  --color-neo-cream: #f4f4f0;
+  --color-neo-black: #111111;
+}
+
+@layer base {
+  body {
+    @apply bg-neo-cream text-neo-black font-body antialiased selection:bg-neo-yellow;
+  }
+}
+
+@layer components {
+  .neo-border {
+    @apply border-[3px] border-neo-black;
+  }
+  
+  .neo-shadow {
+    @apply shadow-[5px_5px_0px_#111111];
+  }
+  
+  .neo-shadow-hover {
+    @apply hover:-translate-x-[2px] hover:-translate-y-[2px] hover:shadow-[7px_7px_0px_#111111] transition-all duration-200 active:translate-x-[3px] active:translate-y-[3px] active:shadow-[2px_2px_0px_#111111];
+  }
+
+  .neo-link-hover {
+    @apply hover:text-neo-salmon hover:underline underline-offset-4 decoration-[3px] transition-all;
+  }
+}
